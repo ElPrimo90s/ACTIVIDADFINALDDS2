@@ -1,0 +1,324 @@
+[
+    {
+        "id":"lente-01" ,
+        "titulo":"Lente 01",
+        "imagen": "./imagenescollares/lentes1.jpg",
+        "categoria": {
+            "nombre": "Lentes",
+            "id": "lentes"
+        },
+        "precio": 120
+    },
+    {
+        "id":"lente-02" ,
+        "titulo":"Lente 02",
+        "imagen": "./imagenescollares/lentes2.jpg",
+        "categoria": {
+            "nombre": "Lentes",
+            "id": "lentes"
+        },
+        "precio": 120
+    },
+    {
+        "id":"lente-03" ,
+        "titulo":"Lente 03",
+        "imagen": "./imagenescollares/lentes3.jpg",
+        "categoria": {
+            "nombre": "Lentes",
+            "id": "lentes"
+        },
+        "precio": 120
+    },
+    {
+        "id":"lente-04" ,
+        "titulo":"Lente 04",
+        "imagen": "./imagenescollares/lentes4.jpg",
+        "categoria": {
+            "nombre": "Lentes",
+            "id": "lentes"
+        },
+        "precio": 120
+    },
+    {
+        "id":"lente-05" ,
+        "titulo":"Lente 05",
+        "imagen": "./imagenescollares/lente5.jpg",
+        "categoria": {
+            "nombre": "Lentes",
+            "id": "lentes"
+        },
+        "precio": 120
+    },
+    {
+        "id":"lente-06" ,
+        "titulo":"Lente 06",
+        "imagen": "./imagenescollares/lente11.jpg",
+        "categoria": {
+            "nombre": "Lentes",
+            "id": "lentes"
+        },
+        "precio": 120
+    },
+    {
+        "id":"lente-07" ,
+        "titulo":"Lente 07",
+        "imagen": "./imagenescollares/lente12.jpg",
+        "categoria": {
+            "nombre": "Lentes",
+            "id": "lentes"
+        },
+        "precio": 120
+    },
+    {
+        "id":"lente-08" ,
+        "titulo":"Lente 08",
+        "imagen": "./imagenescollares/lente13.jpg",
+        "categoria": {
+            "nombre": "Lentes",
+            "id": "lentes"
+        },
+        "precio": 120
+    },
+    {
+        "id":"lente-09" ,
+        "titulo":"Lente 09",
+        "imagen": "./imagenescollares/lente14.jpg",
+        "categoria": {
+            "nombre": "Lentes",
+            "id": "lentes"
+        },
+        "precio": 120
+    },
+    {
+        "id":"lente-10" ,
+        "titulo":"Lente 10",
+        "imagen": "./imagenescollares/lente15.jpg",
+        "categoria": {
+            "nombre": "Lentes",
+            "id": "lentes"
+        },
+        "precio": 120
+    },
+    {
+        "id":"lente-11" ,
+        "titulo":"Lente 11",
+        "imagen": "./imagenescollares/lente16.jpg",
+        "categoria": {
+            "nombre": "Lentes",
+            "id": "lentes"
+        },
+        "precio": 120
+    },
+    {
+        "id":"lente-12" ,
+        "titulo":"Lente 12",
+        "imagen": "./imagenescollares/lente17.jpg",
+        "categoria": {
+            "nombre": "Lentes",
+            "id": "lentes"
+        },
+        "precio": 120
+    },
+    {
+        "id":"collar-01" ,
+        "titulo":"Collar 01",
+        "imagen": "./imagenescollares/collar1.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 120
+    },
+    {
+        "id":"collar-01" ,
+        "titulo":"Collar 02",
+        "imagen": "./imagenescollares/collar2.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 80
+    },
+    {
+        "id":"collar-01" ,
+        "titulo":"Collar 03",
+        "imagen": "./imagenescollares/collar3.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 60
+    },
+    {
+        "id":"collar-01" ,
+        "titulo":"Collar 04",
+        "imagen": "./imagenescollares/collar4.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 50
+    },
+    {
+        "id":"collar-01" ,
+        "titulo":"Collar 05",
+        "imagen": "./imagenescollares/collar5.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 100
+    },
+    {
+        "id":"collar-01" ,
+        "titulo":"Collar 06",
+        "imagen": "./imagenescollares/collar6.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 130
+    },
+    {
+        "id":"collar-01" ,
+        "titulo":"Collar 07",
+        "imagen": "./imagenescollares/collar7.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 110
+    },
+    {
+        "id":"collar-01" ,
+        "titulo":"Collar 08",
+        "imagen": "./imagenescollares/collar8.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 70
+    },
+    {
+        "id":"collar-01" ,
+        "titulo":"Collar 09",
+        "imagen": "./imagenescollares/collar9.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 70
+    },
+    {
+        "id":"collar-10" ,
+        "titulo":"Collar 10",
+        "imagen": "./imagenescollares/collar10.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 80
+    },
+    {
+        "id":"collar-11" ,
+        "titulo":"Collar 11",
+        "imagen": "./imagenescollares/collar11.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 80
+    },
+    {
+        "id":"collar-12" ,
+        "titulo":"Collar 12",
+        "imagen": "./imagenescollares/collar12.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 100
+    },
+    {
+        "id":"anillo-01" ,
+        "titulo":"Anillo 01",
+        "imagen": "./imagenescollares/Anillo1.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 150
+    },
+    {
+        "id":"anillo-02" ,
+        "titulo":"Anillo 02",
+        "imagen": "./imagenescollares/Anillo2.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 499.99
+    },
+    {
+        "id":"anillo-03" ,
+        "titulo":"Anillo 03",
+        "imagen": "./imagenescollares/Anillo3.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 15
+    },
+    {
+        "id":"anillo-04" ,
+        "titulo":"Anillo 04",
+        "imagen": "./imagenescollares/Anillo4.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 60
+    },
+    {
+        "id":"anillo-05" ,
+        "titulo":"Anillo 05",
+        "imagen": "./imagenescollares/Anillo5.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 25
+    },
+    {
+        "id":"anillo-06" ,
+        "titulo":"Anillo 06",
+        "imagen": "./imagenescollares/Anillo6.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 30
+    },
+    {
+        "id":"anillo-07" ,
+        "titulo":"Anillo 07",
+        "imagen": "./imagenescollares/Anillo7.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 20
+    },
+    {
+        "id":"anillo-08" ,
+        "titulo":"Anillo 01",
+        "imagen": "./imagenescollares/Anillo8.jpg",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 25
+    }
+
+
+]
